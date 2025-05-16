@@ -1,5 +1,5 @@
 name = 'Roger'
-last = 'Guevara'
+last_name = 'Guevara'
 
-saludo = 'Hola ' + name + ' ' + last + 'Como estas?'
+saludo = 'Hola ' + name + ' ' + last_name + 'Como estas?'
 print(saludo)
